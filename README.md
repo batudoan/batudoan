@@ -1,5 +1,8 @@
 # 💫 About Me:
-🌐 Web teknolojilerine, özellikle PHP, JavaScript ve CSS alanında büyük ilgi duyuyorum.<br>💻 Kod yazmak kadar 🧩 bilgisayar donanımıyla uğraşmak da beni mutlu ediyor.<br>🚀 Kendimi sürekli geliştirmeye çalışıyor, 🛠️ açık kaynak projelerde aktif olmayı hedefliyorum.<br>🔧 Şu anda web uygulamaları geliştiriyor, küçük projelerle 🎯 yeteneklerimi artırıyorum.
+🌐 I'm passionate about web technologies, especially PHP, JavaScript, and CSS.<br>
+💻 I enjoy working with code as much as 🧩 exploring computer hardware.<br>
+🚀 I'm constantly learning and aiming to be active in 🛠️ open-source projects.<br>
+🔧 Currently, I'm developing web applications and working on small projects to 🎯 improve my skills.
 
 
 ## 🌐 Socials:
